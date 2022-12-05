@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Training</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Search</string>
+    <string name="ab2_inversions">Search</string>
+    <string name="ab3_inversions">Search</string>
+    <string name="ab4_inversions">Search</string>
+</resources>
